@@ -1,0 +1,16 @@
+Ik heb ervoor gekozen dat je aan de voorkant van de website kan inloggen en als je ingelogd ben als admin dat je dan blogs kan toevoegen, aanpassen en verwijderen
+Ik heb hiervoor gekozen omdat het een klein blog systeempje is en daarom niet de moeite waard zou zijn om dit ook nog eens op te splitsen.
+
+Omdat het blog website/systeempje alleen voor deze opdracht is heb ik het klein en simpel gehouden, maar met de kennis die ik opgedaan heb van deze cursus. 
+
+Als ik een blog zou maken waarin gebruik wil gaan maken van AJAX zou ik het blog systeem WordPress als basis gebruiken en daar dan allerlei aanpassingen op doorvoeren
+
+Dit is de reden dat dit systeem alleen voor deze opdracht is en niet voor opdrachten in het bedrijfsleven.
+Wel kan ik hier nog wel voorbeelden uithalen maar zal niet een systeem worden wat ik als basis zou gebruiken.
+---------------------------------------------------------------------------
+Stap 1: Importeer database.sql in het database
+Stap 2: Open bestand config.php en zet daar de correcte gegevens in voor connectie naar het database.
+Stap 3: Open index.html (in een browser).
+Stap 4: Login met gebruikersnaam loi en het wachtwoord loi (tenzij dit veranderd is in database.sql).
+
+Nu kan je volledig gebruik maken van de website/blog.

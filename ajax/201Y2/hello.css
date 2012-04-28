@@ -1,0 +1,13 @@
+.declared{
+    color: purple;
+    font-family: arial;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.programmed{
+    color: orange;
+    font-family: helvetica;
+    font-weight: normal;
+    font-size: 20px;
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="metallica.xsl" type="text/xsl"?>
+<metallica>
+    <member link="http://www.metallica.com">
+        <name>
+            <firstname>James</firstname>
+            <lastname>Hetfield</lastname>
+        </name>
+    </member>
+    <member link="http://www.metallica.com">
+        <name>
+            <firstname>Lars</firstname>
+            <lastname>Ulrich</lastname>
+        </name>
+    </member>
+    <member link="http://www.metallica.com">
+        <name>
+            <firstname>Kirk</firstname>
+            <lastname>Hammett</lastname>
+        </name>
+    </member>
+    <member link="http://www.metallica.com">
+        <name>
+            <firstname>Robert</firstname>
+            <lastname>Trujillo</lastname>
+        </name>
+    </member>
+</metallica>

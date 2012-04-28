@@ -1,0 +1,1 @@
+&nbsp;&nbsp;&nbsp;<img onclick="editBlog(<?php echo $blogId; ?>);" src="view/images/edit.png" />&nbsp;<img onclick="deleteBlog(<?php echo $blogId; ?>);" src="view/images/delete.png" />

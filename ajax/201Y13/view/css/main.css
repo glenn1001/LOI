@@ -1,0 +1,93 @@
+body {
+    background: lightgreen;
+    color: black;
+    margin: 0px;
+}
+
+div#container{
+    margin: 0 auto;
+    width: 990px;
+    /*height: 300px;
+    border: solid black 1px;*/
+}
+
+div#blogcontainer{
+    float: left;
+    width: 700px;
+    text-align: center;
+}
+
+div#blogs {
+    padding: 0px 10px;
+}
+
+div#blogs table {
+    border-collapse: collapse;
+}
+
+div#blogs td.title{
+    text-align: left;
+    border: 1px solid black;
+    padding: 0px 5px;
+    border-right-style: hidden;
+}
+
+div#blogs td.date{
+    text-align: right;
+    border: 1px solid black;
+    padding: 0px 5px;
+    border-left-style: hidden;
+}
+
+div#blogs td.date img:hover{
+    cursor: pointer;
+}
+
+div#blogs td.description{
+    text-align: left;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    padding: 0px 5px;
+}
+
+div#blogs td.description textarea{
+    resize: none;
+}
+
+div#blogs table.pages td{
+    width: 225px;
+}
+
+div#blogs table.pages td.left{
+    text-align: left;
+}
+
+div#blogs table.pages td.center{
+    text-align: center;
+}
+
+div#blogs table.pages td.right{
+    text-align: right;
+}
+
+div#blogs table.pages span:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+div#login{
+    float: right;
+    width: 290px;
+    text-align: center;
+}
+
+div#login-error{
+    color: red;
+    font-weight: bold;
+}
+
+div#login div.form{
+    float: left;
+    padding: 2px;
+    text-align: left;
+}
